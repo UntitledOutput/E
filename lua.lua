@@ -21,4 +21,5 @@ for i, v in pairs(tbl) do
   else
     print(v.."is not over 5.")
   end
+  
 end
